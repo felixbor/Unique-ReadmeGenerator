@@ -1,14 +1,22 @@
 {
-  "name": "static-site",
+  "name": "ridme",
   "version": "1.0.0",
-  "description": "",
+  "description": "chalange 9",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Feliks",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "8.2.4"
-  }
+    "inquirer": "^8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixbor/Unique-ReadmeGenerator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/felixbor/Unique-ReadmeGenerator/issues"
+  },
+  "homepage": "https://github.com/felixbor/Unique-ReadmeGenerator#readme"
 }
