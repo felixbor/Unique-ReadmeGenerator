@@ -4,7 +4,7 @@ function renderLicenseBadge(license)
   { 
     if (license !== 'no license') {
       return `
-    ![badge](https://img.shields.io/badge/license-${license}-blue)
+![badge](https://img.shields.io/badge/license-${license}-blue)
       `;
     } else {
       return ' ';
@@ -17,7 +17,7 @@ function renderLicenseLink(license) {
   
     if (license !== 'no license') {
     return `
-    [${license}](https://choosealicense.com/licenses/${license})
+![${license}](https://choosealicense.com/licenses/${license})
       `;
     } else {
       return ' ';
@@ -35,9 +35,39 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
 console.log("works")
 console.log(data.title)
-  return `# ${data.title}
+  return `
+  # ${data.title}
+  ${renderLicenseBadge(data.license)}
+  
+  ## Table-of-Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  
+  ## Description
+  ${data.description}
 
-//`;
+  ## [Installation](#table-of-contents)
+  ${data.installation}
+
+  ## [Usage](#table-of-contents)
+  ${data.usage}
+    
+  ${renderLicenseSection(data.license)}
+  ## [Contributing](#table-of-contents)
+  ${data.contributing}
+
+
+  ## [Tests](#table-of-contents)
+  ${data.test}
+  ## [Questions](#table-of-contents)
+  Please contact me using the following links:
+  [GitHub](https://github.com/${data.githubUsername})
+  [Email: ${data.email}](mailto:${data.email})
+`;
 }
 
 module.exports = generateMarkdown;
