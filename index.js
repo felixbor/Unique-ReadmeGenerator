@@ -129,11 +129,11 @@ function writeToFile(fileName, data) {
                 reject(err);
                 return;
             }
+            console.log('README created!')
             //If no error//
             resolve({
                 ok: true, 
                 message: "File created!",
-               
             });
         });
     });

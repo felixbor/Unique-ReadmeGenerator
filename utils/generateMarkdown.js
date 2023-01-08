@@ -40,7 +40,7 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
 //console.log("works")
 //console.log(data.title)
-console.log("Readme created")
+
   return `
   # ${data.title}
   ${renderLicenseBadge(data.license)}

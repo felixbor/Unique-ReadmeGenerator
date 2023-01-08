@@ -15,14 +15,14 @@
   * [Questions](#questions)
   
   ## Description
-  The project facilitates  the process of readme file creation for any project
-    The target of the project is simplification o
+  This node application  helps any developer with creation of professonal README file.
+  Motivation of the project is creation of fast and easy way of readme file generation. 
 
   ## Installation
   1. Clone the Repo 2. Install node.js 3.Install npm inquirer 4. Run node index.js
 
   ## Usage
-  open terminal. run node index.js, compete creating readme file by answering prompt questions
+  Open terminal. run node index.js, compete creating readme file by answering prompt questions
 
   ## License
   This application is covered  under the mit license.
@@ -35,7 +35,7 @@
 
 
   ## Tests
-  You can find  a testin/tutorial video  using following link: [Video](https://youtu.be/bfHiim-EzpM)
+  You can find  a testing/tutorial video  using following link: [Video](https://youtu.be/bfHiim-EzpM)
   ## Screenshots  
   ![](.\assets\screenshots\image1.JPG)
 
