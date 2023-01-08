@@ -1,33 +1,42 @@
 
-  # Generator
+  # Testing name of a project
   
-![badge](https://img.shields.io/badge/license-afl-3.0-blue)
+![badge](https://img.shields.io/badge/license-mit-blue)
       
   
   ## Table-of-Contents
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Contributing](#contributing)
+  * [License](#License)
+  * [Contributing](#Contributors)
   * [Tests](#tests)
   * [Questions](#questions)
   
   ## Description
+  section where you can describe your project
+
+  ## Installation
+  describtion of installation process
+
+  ## Usage
+  instruction and usage
+
+  ## License
+  This application is covered  under the mit license.
   
-  Genarates readme.md file
-  ## [Installation](#table-of-contents)
-  npm inquirer
-  ## [Usage](#table-of-contents)
-  Can be used for any project
+  license details:  [mit](https://choosealicense.com/licenses/mit)
     
-  undefined
-  ## [Contributing](#table-of-contents)
-  
+
+  ## Contributors
+  list of collaborators
 
 
-  ## [Tests](#table-of-contents)
-  undefined
-  ## [Questions](#table-of-contents)
+  ## Tests
+  testing liknk
+  ## Questions
   Please contact me using the following links:
-  [GitHub](https://github.com/undefined)
-  [Email: 1@2](mailto:1@2)
+
+  [GitHub](https://github.com/myGithubUserName)   
+  [Email: ](mailto:test@email.com)
+  
