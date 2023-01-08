@@ -132,14 +132,15 @@ function writeToFile(fileName, data) {
             //If no error//
             resolve({
                 ok: true, 
-                message: "File created!"
+                message: "File created!",
+               
             });
         });
     });
 };
-    
+   // TODO: Create a function to initialize app 
 AskQuestions()
-/*// TODO: Create a function to initialize app
+/*
 function init() { 
     questions()
     //return inquirer.prompt(questions);

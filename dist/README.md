@@ -1,7 +1,7 @@
 
-  # Testing name of a project
+  # my project:readme generator
   
-![badge](https://img.shields.io/badge/license-mit-blue)
+![badge](https://img.shields.io/badge/license-afl%203.0-blue)
       
   
   ## Table-of-Contents
@@ -12,31 +12,31 @@
   * [Contributing](#Contributors)
   * [Tests](#tests)
   * [Questions](#questions)
-  
+    
   ## Description
-  section where you can describe your project
+  generates readme file based on user aanswers
 
   ## Installation
-  describtion of installation process
+  npm inquirer
 
   ## Usage
-  instruction and usage
+  install node js if you don't have it. then npm inquirer, in open terminal run node index.js
 
   ## License
-  This application is covered  under the mit license.
+  This application is covered  under the afl-3.0 license.
   
-  license details:  [mit](https://choosealicense.com/licenses/mit)
+  license details:  [afl-3.0](https://choosealicense.com/licenses/afl-3.0)
     
 
   ## Contributors
-  list of collaborators
+  built with power of WEB
 
 
   ## Tests
-  testing liknk
+  you can add your links here:
   ## Questions
   Please contact me using the following links:
+  [GitHub](https://github.com/myGitHub)   
 
-  [GitHub](https://github.com/myGithubUserName)   
-  [Email: ](mailto:test@email.com)
+  [Email: ](mailto:mytest@email.com)
   
