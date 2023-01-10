@@ -1,6 +1,8 @@
 
-  # f
-   
+  # z
+  
+![badge](https://img.shields.io/badge/license-afl%203.0-blue)
+      
   
   ## Table-of-Contents
   * [Description](#description)
@@ -12,26 +14,29 @@
   * [Questions](#questions)
     
   ## Description
-  f
+  z
 
   ## Installation
-  f
+  z
 
   ## Usage
-  f
+  z
 
   ## License
+  This application is covered  under the afl-3.0 license.
   
+  license details:  [afl-3.0](https://choosealicense.com/licenses/afl-3.0)
+    
 
   ## Contributors
-  f
+  zz
 
 
   ## Tests
-  ff
+  z
   ## Questions
   Please contact me using the following links:
-  [GitHub](https://github.com/f)   
+  [GitHub](https://github.com/z)   
 
-  [Email: ](mailto:f)
+  [Email: ](mailto:z)
   
